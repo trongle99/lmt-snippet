@@ -1,0 +1,19 @@
+{
+    "Quick generate print_r() with tag <pre> in PHP": {
+		"scope": "php",
+		"prefix": "pre",
+		"body": [
+		  "echo \"<pre>\";",
+		  "print_r(${1:$$data});",
+		  "echo \"<pre>\";"
+		],
+		"description": "Quick generate print_r() with tag <pre> in PHP"
+	},
+	"Quick return false": {
+		"prefix": "rf",
+		"body": [
+		  "return false;"
+		],
+		"description": "Quick return false"
+	}
+}
