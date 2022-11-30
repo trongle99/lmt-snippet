@@ -1,8 +1,13 @@
 # **Coding faster than ever ⚡️🚀**
 
-## Table of HTML snippets 🧑‍💻
+## Table of PHP snippets 🧑‍💻
 
 | Prefix | Code               |
 | ------ | ------------------ |
-| `rf`   | Return false       |
 | `pre`  | Print array in PHP |
+
+## Table of Javascript snippets 🧑‍💻
+
+| Prefix | Code         |
+| ------ | ------------ |
+| `rf`   | Return false |
